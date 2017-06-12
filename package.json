@@ -1,6 +1,6 @@
 {
   "name": "realworks-postgres-property",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Store Realworks properties in Postgres",
   "main": "lib/index.js",
   "scripts": {
